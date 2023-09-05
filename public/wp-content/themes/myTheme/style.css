@@ -1,0 +1,15 @@
+/*
+Theme Name: myTheme
+Author: Tigran
+Description: My first theme.
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+Domain: mytheme
+*/
+
+img {
+    width: 100%;
+    height: auto;
+}
